@@ -2,6 +2,16 @@
 
 - My career interests revolve around connecting Finance and IT. 
 - I worked previously as an accountant and as an Oracle business analyst.
-- Following a career break to raise a family in 2017, I am currently reskilling and upskilling
-- As part of my efforts to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I teach myself the convergence of AI, digital innovation, cloud computing, and data analytics and engineering through a virtual learning program and online data courses.
-- Tools/Area: Python (Pandas, Numpy, Matplotlib, Seaborn), SQL (PostgreSQL, MYSQL, Cassandra), BI (Power BI, Tableau), Machine Learning
+- At the moment, I'm on a career break and reskilling/upskilling in data science.
+- As part of my efforts to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I teach myself the convergence of AI, digital innovation, cloud computing, data analytics, and data engineering through a virtual learning program (WAIA) and online learning platforms (Udacity, DataCamp).
+- Coursework:
+  - Data science:
+      - Python Fundamentals - Pandas, Numpy, Matplotlib, Seaborn
+      - Data Pre-processing
+      - Exploratory Data Analysis
+      - Data Visualization
+      - A/B Testing
+  - Data Engineering - Data Modelling, Database Design, ETL
+  - SQL and Databases - PostgreSQL, MySQL, Cassandra
+  - Business Intelligence - Power BI, Tableau
+  - Machine Learning - Supervised, Unsupervised, NLP
