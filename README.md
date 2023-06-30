@@ -11,8 +11,8 @@
       - Exploratory Data Analysis
       - Data Visualization
       - A/B Testing
-      - Machine Learning - Supervised, Unsupervised, NLP
-  - Data Engineering - Data Modelling, Database Design, ETL
+      - Intro to Machine Learning - Supervised, Unsupervised, NLP
+  - Intro to Data Engineering - Data Modelling, Database Design, ETL
   - SQL and Databases - PostgreSQL, MySQL, Cassandra
   - Business Intelligence - Power BI, Tableau
   
