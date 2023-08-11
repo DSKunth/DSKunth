@@ -4,7 +4,7 @@
 - I worked previously as an accountant and as an Oracle business analyst.
 - At the moment, I'm on a career break and reskilling/upskilling in data science.
 - As part of my efforts to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I have been learning the convergence of AI, digital innovation, cloud computing, and data analytics through online learning platforms (Udacity, DataCamp).
-- Currently, I am completing a data analyst/data engineer program for women.
+- Currently, I am completing a six-month data analyst/data engineer program for women.
 - Learning path:
   - Data Science:
       - Python Fundamentals - Pandas, Numpy, Matplotlib, Seaborn
