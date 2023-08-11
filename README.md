@@ -14,7 +14,7 @@
       - A/B Testing
       - Intro to Machine Learning - Supervised, Unsupervised, NLP
   - Intro to Data Engineering - Data Modelling, Database Design, Data Pipelines
-  - SQL and Databases - PostgreSQL, Cassandra
+  - SQL and Databases - MySQL, PostgreSQL, Cassandra
   - Business Intelligence - Power BI, Tableau
-  - Tools: Jupyter, Google Colab, PyCharm, MySQL, DBeaver, Docker, Kafka, Spark, Amazon Redshift, Amazon S3, CLI, GitHub
+  - Tools: Jupyter, Google Colab, PyCharm, DBeaver, Docker, Kafka, Spark, Amazon Redshift, Amazon S3, CLI, GitHub
   
