@@ -3,7 +3,7 @@
 - My career interests revolve around connecting Finance and IT. 
 - I worked previously as an accountant and as an Oracle business analyst.
 - At the moment, I'm on a career break and reskilling/upskilling in data science.
-- As part of my efforts to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I have been learning the convergence of AI, digital innovation, cloud computing, and data analytics through online learning platforms (Udacity, DataCamp).
+- As part of my efforts to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I have been learning the convergence of AI, digital innovation, cloud computing, data analytics, and data engineering through online learning platforms (Udacity, DataCamp).
 - Currently, I am completing a six-month data analyst/data engineer program for women.
 - Learning path:
   - Data Science:
