@@ -6,7 +6,7 @@ Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 - I worked previously as an accountant and as an Oracle business analyst.
 - At the moment, I'm on a career break and reskilling/upskilling in data science.
 - In order to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I have been studying the convergence between artificial intelligence, digital innovation, cloud computing, data analytics, and data engineering via MOOC platforms (Udacity, DataCamp, and Coursera).
-- In the meantime, I am pursuing a six-month data analyst/data engineer training program at Women AI Academy.
+- In the meantime, I am pursuing a six-month data analyst/data engineer training program at [Women AI Academy](https://www.womenaiacademy.com/).
 
 ### Learning path:
   - Data Science:
