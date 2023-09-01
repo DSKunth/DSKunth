@@ -1,5 +1,6 @@
 ### My Bio
-![1693407040449](https://github.com/DSKunth/DSKunth/assets/98457852/b7162dc1-4d51-4925-a5e7-8133b34526ab)
+![372143053_838947037583437_1222418851479622016_n](https://github.com/DSKunth/DSKunth/assets/98457852/93b69805-e440-49dc-a769-5d023c4cdc27)
+
 
 Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 - My career interests revolve around connecting Finance and IT. 
