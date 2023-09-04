@@ -21,4 +21,12 @@ Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
   - SQL and Databases - MySQL, PostgreSQL, Cassandra
   - Business Intelligence - Power BI, Tableau
   - Tools: Jupyter, Google Colab, PyCharm, DBeaver, Docker, Kafka, Spark, Amazon Redshift, Amazon S3, CLI, GitHub
+
+  ### Portfolio
+  - You can find a collection of my projects [here](https://github.com/DSKunth/Project-Portfolio).
+
+  ### Let's Connect!
+  - [Linkedin](https://www.linkedin.com/in/dkunth/)
+  - [Tableau Public](https://public.tableau.com/app/profile/dorothy.kunth)
+
   
