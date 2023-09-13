@@ -8,7 +8,7 @@ Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 - At the moment, I'm on a career break and reskilling/upskilling in data science.
 - In order to upskill and gain a deeper understanding of the sophisticated techniques surrounding data, I have been studying the convergence between artificial intelligence, digital innovation, cloud computing, and data science via MOOC platforms (Udacity, DataCamp, and Coursera).
 - I have recently completed a six-month data analyst/data engineer training program at [Women AI Academy](https://www.womenaiacademy.com/).
-- Meanwhile, I am completing a [Google Data Analytics Professional certification](https://www.coursera.org/professional-certificates/google-data-analytics) sponsored by Work in Tech 2023 and [Ace the SQL Interview on Data Lemur](https://datalemur.com/questions?category=SQL).
+- Meanwhile, I am completing a [Google Data Analytics Professional certification](https://www.coursera.org/professional-certificates/google-data-analytics) sponsored by [INCO Academy](https://incoacademy.de/en/programs/67) and Google.org.
 
 ### Learning path:
   - Data Science:
