@@ -11,13 +11,13 @@ Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 
 ### Learning path:
   - Data Science:
-      - Python Fundamentals - Pandas, Numpy, Matplotlib, Seaborn
+      - Python - Pandas, Numpy, Matplotlib, Seaborn
       - Data Pre-processing
       - Exploratory Data Analysis
       - Data Visualization
       - A/B Testing
       - Intro to Machine Learning - Supervised, Unsupervised, NLP
-  - Intro to Data Engineering - Data Modelling, Database Design, Data Pipelines
+  - Data Engineering - Data Modelling, Database Design, Data Pipelines
   - SQL and Databases - MySQL, PostgreSQL, Cassandra
   - Business Intelligence - Power BI, Tableau
   - Tools: Jupyter, Google Colab, PyCharm, DBeaver, Docker, Kafka, Spark, Amazon Redshift, Amazon S3, CLI, GitHub
