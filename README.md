@@ -26,7 +26,6 @@ Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
   - View my portfolio of projects [here](https://github.com/DSKunth/Project-Portfolio).
 
   ### Let's Connect!
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   - [Linkedin](https://www.linkedin.com/in/dkunth/)
   - [Tableau Public](https://public.tableau.com/app/profile/dorothy.kunth)
 
