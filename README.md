@@ -1,6 +1,6 @@
 ### My Bio
-![372143053_838947037583437_1222418851479622016_n](https://github.com/DSKunth/DSKunth/assets/98457852/93b69805-e440-49dc-a769-5d023c4cdc27)
 
+![Grey Minimalist Designer Linkedin Banner](https://github.com/DSKunth/DSKunth/assets/98457852/1707f2b0-cf6d-4fc3-a586-4ea01145c1d4)
 
 Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 - I am a Finance-focused Data Analyst and my favorite tools are Python, SQL, and Tableau.
