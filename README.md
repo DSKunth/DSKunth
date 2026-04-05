@@ -1,6 +1,5 @@
 ### My Bio
 
-![Grey Minimalist Designer Linkedin Banner](https://github.com/DSKunth/DSKunth/assets/98457852/1707f2b0-cf6d-4fc3-a586-4ea01145c1d4)
 
 Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
 - I am an Accounting and Business Analyst with a strong affinity for IT and a passion for systems and process improvements.
