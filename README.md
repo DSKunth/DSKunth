@@ -2,10 +2,10 @@
 
 
 Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
-- I am an Accounting and Business Analyst with a strong affinity for IT and a passion for systems and process improvements.
-- My favorite tools are Python, SQL, and Tableau.
+- I'm a Finance & ERP Professional with a strong affinity for technology solutions and a passion for systems and process improvements.
 - I participated in an immersive, six-month data analyst/data engineer training program at [Ethos AI/Women AI Academy](https://ethosai.ai/women-ai/).
 - I became interested in data science during my parental break in 2022, so I expanded my skills and explored the sophisticated technologies surrounding data. Since then, I have been learning about the convergence between machine learning, digital innovation, cloud computing, business intelligence, and data science via MOOC platforms (Udacity, DataCamp, and Coursera).
+- My favorite tools are Python, SQL, and Tableau.
 
 ### Learning path:
   - Data Science:
