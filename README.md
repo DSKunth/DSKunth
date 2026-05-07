@@ -2,7 +2,7 @@
 
 
 Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
-- I'm a business analyst, and I work at the intersection of finance operations and finance systems, particularly ERPs with the goal of leveraging technology solutions to improve business processes, support data-driven decision-making, and improve operational efficiency.
+- I'm a business analyst, and I work at the intersection of finance operations and finance systems, particularly ERPs with the goal of leveraging innovative technology solutions to optimize business processes, support data-driven decision-making, and improve operational efficiency.
 - I became interested in data science during my parental break in 2022, so I expanded my skills and explored the sophisticated technologies surrounding data. Since then, I have been learning about the convergence between machine learning, digital innovation, cloud computing, business intelligence, and data science via MOOC platforms (Udacity, DataCamp, and Coursera).
 - My favorite tools are Python, SQL, and Tableau.
 
