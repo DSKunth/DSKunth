@@ -1,30 +1,26 @@
-### My Bio
+# Hi there! 👋 I'm Dorothy
 
+I'm a **Business Analyst with a background in Finance and ERP**, passionate about the intersection of **business processes, data, and technology**.
 
-Hi there! 👋 Greetings! I am Dorothy, and here is my brief bio:
-- As a business analyst, I work at the intersection of finance operations and finance systems, particularly ERPs with the goal of leveraging innovative technology solutions to optimize business processes, support data-driven decision-making, and improve operational efficiency.
-- I became interested in data science during my parental break in 2022, so I have been expanding my skills and exploring the sophisticated technologies surrounding data. Since then, I have been learning about the convergence between machine learning, cloud computing, business intelligence, and data science via MOOC platforms (Udacity, DataCamp, LinkedIn Learning, and Coursera).
-- My favorite tools are Python, SQL, and Tableau.
+I'm currently expanding my technical skills through an **SAPImplementation Consultant & ABAP Developer Associate Program**, building foundations in SAP S/4HANA, ABAP, SAP BTP, Fiori, CDS Views, and OData.
 
-### Learning path:
-  - Data Science:
-      - Python - Pandas, Numpy, Matplotlib, Seaborn
-      - R and RStudio
-      - Data Pre-processing
-      - Exploratory Data Analysis
-      - Data Visualization
-      - A/B Testing
-      - Intro to Machine Learning - Supervised, Unsupervised, NLP
-  - Data Engineering - Data Modelling, Database Design, Data Pipelines
-  - SQL and Databases - Google BigQuery, MySQL, PostgreSQL, Cassandra
-  - Business Intelligence - Power BI, Tableau
-  - Tools and Technologies: Jupyter, Google Colab, PyCharm, DBeaver, Docker, Kafka, Spark, Amazon Redshift, Amazon S3, Google BigQuery, Version control (Git) & GitHub
+## 🛠️ Learning & Development
 
-  ### Portfolio
-  - View my portfolio of projects [here](https://github.com/DSKunth/Project-Portfolio).
+- **SAP:** SAP S/4HANA, ABAP, SAP BTP, SAP Fiori, CDS Views, OData
+- **Programming:** Python, SQL, JavaScript
+- **Web:** HTML & CSS
+- **Data:** Data Analytics, Data Modeling, ETL, Power BI, Tableau
+- **Tools:** Git, GitHub, Jupyter, Databases
 
-  ### Let's Connect!
-  - [Linkedin](https://www.linkedin.com/in/dkunth/)
-  - [Tableau Public](https://public.tableau.com/app/profile/dorothy.kunth)
+## 📚 My Repositories
+
+My repositories document my learning journey across:
+
+📊 **Data Analytics & Data Engineering**  
+💻 **Programming & Web Foundations**  
+🔧 **Git & Version Control**  
+🧩 **SAP & Technical Development**
+
+I'm particularly interested in how **ERP, data, and technology can be combined to solve real-world business problems**.
 
   
