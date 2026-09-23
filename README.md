@@ -6,7 +6,8 @@ I'm currently expanding my technical skills through an **SAP Implementation Cons
 
 ## 🛠️ Learning & Development
 
-- **SAP:** SAP S/4HANA, ABAP, SAP BTP, SAP Fiori, CDS Views, OData
+- **SAP Functional:** Financial Accounting, Management Accounting, End-to-End Business Process Integration, SAP Analytics Cloud
+- **SAP Technical:** SAP S/4HANA, ABAP, SAP BTP, SAP Fiori, CDS Views, OData
 - **Programming:** Python, SQL, JavaScript
 - **Web:** HTML & CSS
 - **Data:** Data Analytics, Data Modeling, ETL, Power BI, Tableau
