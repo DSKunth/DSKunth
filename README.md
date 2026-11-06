@@ -1,13 +1,9 @@
-# Hi there! 👋 I'm Dorothy
-
-I'm an ERP Business Analyst and SAP-certified Finance Professional with strong background in ERP systems and core finance operations.
-
-I'm currently expanding my technical skills through an **SAP Implementation Consultant & ABAP Developer Associate scholarship program**, building foundations in SAP S/4HANA, ABAP, SAP BTP, Fiori, CDS Views, and OData.
+ERP Business Analyst and SAP-certified Finance Professional who bridges finance, business processes, and technology to help organizations streamline finance operations and optimize ERP solutions. Currently expanding my technical skills through an **SAP Implementation Consultant & ABAP Developer Associate scholarship program**, building foundations in SAP S/4HANA, ABAP Cloud, SAP BTP, Fiori, CDS Views, and OData.
 
 ## Learning & Development
 
 - **SAP Functional:** Financial Accounting, Management Accounting, End-to-End Business Process Integration, SAP Analytics Cloud
-- **SAP Technical:** SAP S/4HANA, ABAP, SAP BTP, SAP Fiori, CDS Views, OData
+- **SAP Technical:** SAP S/4HANA, ABAP Cloud, SAP BTP, SAP Fiori, CDS Views, OData
 - **Programming:** Python, SQL, JavaScript
 - **Web:** HTML & CSS
 - **Data:** Data Analytics, Data Modeling, ETL, Power BI, Tableau
