@@ -1,4 +1,4 @@
-ERP Business Analyst and SAP-certified Finance Professional who bridges finance, business processes, and technology to help organizations streamline finance operations and optimize ERP solutions. Currently expanding my technical skills through an **SAP Implementation Consultant & ABAP Developer Associate scholarship program**, building foundations in SAP S/4HANA, ABAP Cloud, SAP BTP, Fiori, CDS Views, and OData.
+SAP-certified Consultant and ERP Business Analyst who bridges finance, business processes, and technology to help organizations streamline finance operations and optimize ERP solutions. Currently expanding my technical skills through an **SAP Implementation Consultant & ABAP Developer Associate scholarship program**, building foundations in SAP S/4HANA, ABAP Cloud, SAP BTP, Fiori, CDS Views, and OData.
 
 ## Learning & Development
 
