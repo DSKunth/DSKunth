@@ -14,7 +14,7 @@ SAP-certified Consultant and ERP Business Analyst who bridges finance, business 
 My repositories document my learning journey across:
 
 - **SAP & Technical Development**
-- - **Git & Version Control**  
+- **Git & Version Control**  
 - **Data Analytics & Data Engineering**  
 - **Programming & Web Foundations**  
 
