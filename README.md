@@ -13,10 +13,10 @@ SAP-certified Consultant and ERP Business Analyst who bridges finance, business 
 
 My repositories document my learning journey across:
 
-**Data Analytics & Data Engineering**  
-**Programming & Web Foundations**  
-**Git & Version Control**  
-**SAP & Technical Development**
+- **SAP & Technical Development**
+- - **Git & Version Control**  
+- **Data Analytics & Data Engineering**  
+- **Programming & Web Foundations**  
 
 I'm particularly interested in how **ERP, data, and technology can be combined to solve real-world business problems**.
 
